@@ -1,2 +1,3 @@
 # Dr. Virgil Elings
-Treatises in Theoretical Physics
+Thoughts on Physics
+Learning by Thinking
