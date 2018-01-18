@@ -1,3 +1,3 @@
-# Dr. Virgil Elings
+# Virgil Elings
 Thoughts on Physics -
 Learning by Thinking
