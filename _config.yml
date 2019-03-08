@@ -3,3 +3,4 @@ title: Virgil Elings
 description: Treatises in Theoretical Physics
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
